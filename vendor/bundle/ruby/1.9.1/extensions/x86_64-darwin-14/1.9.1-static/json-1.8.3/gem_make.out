@@ -1,0 +1,14 @@
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/json-1.8.3/ext/json
+/Users/zhangyu/.rbenv/versions/1.9.3-p551/bin/ruby -r ./siteconf20160313-74272-2b4gwe.rb extconf.rb
+creating Makefile
+
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/json-1.8.3/ext/json
+make  clean
+
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/json-1.8.3/ext/json
+make
+make: Nothing to be done for `all'.
+
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/json-1.8.3/ext/json
+make  install
+installing default libraries

@@ -1,0 +1,24 @@
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/mysql-2.9.1/ext/mysql_api
+/Users/zhangyu/.rbenv/versions/1.9.3-p551/bin/ruby -r ./siteconf20160313-75165-112ygfp.rb extconf.rb
+checking for mysql_ssl_set()... yes
+checking for rb_str_set_len()... yes
+checking for rb_thread_start_timer()... no
+checking for mysql.h... yes
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /workspace/pets_web/vendor/bundle/ruby/1.9.1/extensions/x86_64-darwin-14/1.9.1-static/mysql-2.9.1/mkmf.log
+
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/mysql-2.9.1/ext/mysql_api
+make  clean
+
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/mysql-2.9.1/ext/mysql_api
+make
+compiling mysql.c
+linking shared-object mysql/mysql_api.bundle
+
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/mysql-2.9.1/ext/mysql_api
+make  install
+/usr/bin/install -c -m 0755 mysql_api.bundle .gem.20160313-75165-1d6hl0g/mysql
+installing default mysql_api libraries

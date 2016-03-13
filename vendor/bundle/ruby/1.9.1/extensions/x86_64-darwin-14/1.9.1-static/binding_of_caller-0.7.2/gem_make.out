@@ -1,0 +1,16 @@
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+/Users/zhangyu/.rbenv/versions/1.9.3-p551/bin/ruby -r ./siteconf20160313-75165-176noxd.rb extconf.rb
+creating Makefile
+
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make  clean
+
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make
+compiling binding_of_caller.c
+linking shared-object binding_of_caller.bundle
+
+current directory: /workspace/pets_web/vendor/bundle/ruby/1.9.1/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make  install
+/usr/bin/install -c -m 0755 binding_of_caller.bundle .gem.20160313-75165-vmswee
+installing default binding_of_caller libraries
